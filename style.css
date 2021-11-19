@@ -1,0 +1,22 @@
+body {
+    background: url(https://images.unsplash.com/photo-1616499452581-cc7f8e3dd3c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    background-repeat: no-repeat;
+    background-position:center 80px
+}
+.my-card {
+    font-size: 20px;
+    font-weight: 700;
+    color: midnightblue;
+}
+
+.my-card-info {
+    font-size: 18px;
+    font-weight: 700;
+    color: midnightblue;
+}
+
+.my-table {
+    font-size: 18px;
+    font-weight: 700;
+    color: midnightblue;
+}
